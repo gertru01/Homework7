@@ -1,6 +1,9 @@
 package ru.gertru;
 
+import jakarta.xml.bind.annotation.XmlRootElement;
+
 import java.util.Objects;
+
 
 public class Player {
 

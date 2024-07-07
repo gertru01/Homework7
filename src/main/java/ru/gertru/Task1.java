@@ -1,14 +1,13 @@
 package ru.gertru;
 
 import java.io.IOException;
-import java.util.ArrayList;
 import java.util.Collection;
-import java.util.List;
 
-public class TestClass {
+public class Task1 {
 
     public static void main(String[] args) throws IOException {
-        PlayerService service = new PlayerServiceJSON();
+
+        PlayerServiceJSON service = new PlayerServiceJSON();
 
         int playerId = service.createPlayer("WinMaster_777");
         service.addPoints(playerId, 100);
