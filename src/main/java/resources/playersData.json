@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nick": "Oh hi, Mark!",
+    "points": 300,
+    "online": false
+  },
+  {
+    "id": 2,
+    "nick": "T-1000",
+    "points": 400,
+    "online": false
+  }
+]
